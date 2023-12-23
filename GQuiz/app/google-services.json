@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670516252075",
+    "project_id": "gquiz-1bfae",
+    "storage_bucket": "gquiz-1bfae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670516252075:android:9658762d5bcbf7825956ee",
+        "android_client_info": {
+          "package_name": "com.example.gquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARgC8nn_KRw6bx-lnfcvuVt1S9pZ9uFD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
